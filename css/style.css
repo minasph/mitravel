@@ -5,3 +5,7 @@
 @import "_variables.css";
 @import "_vendor.css";
 @import "_media.css";
+
+/* Components import */
+@import "./components/_header.css";
+@import "./components/_first.css";

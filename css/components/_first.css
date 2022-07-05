@@ -1,0 +1,8 @@
+.first {
+    height: 100vh;
+    min-height: 660px;
+    background-image: url("/img/first_bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
